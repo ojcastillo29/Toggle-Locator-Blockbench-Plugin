@@ -6,6 +6,7 @@ A simple yet powerful Blockbench plugin that allows you to quickly toggle the vi
 
 - **One-click toggle**: Hide or show all locators in your model instantly
 - **Smart detection**: Automatically finds locators by name, type, and data properties
+- **Keybind**: Quickly toggle locators with the following keybind:  Ctrl + Shift + L
 - **Clean workspace**: Perfect for cleaner view when working on animations or textures
 - **Format support**: Support for Bedrock Entity Models (Made for Cobblemon related Models) 
 
